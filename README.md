@@ -23,7 +23,7 @@ Final-year Software Engineering student (GLSID) at ENSET Mohammedia, class of 20
 
 - **[digital-bank](https://github.com/YosaZiege/digital-bank)** — Spring Boot + Angular digital bank with Spring AI RAG assistant and Telegram bot
 - **[GoReview-AI](https://github.com/YosaZiege/GoReview-AI)** — CLI detecting architectural smells via Go/Python AST analysis, with LLM enrichment and score-based CI
-- **[Diamond](https://github.com/YosaZiege/Diamond)** — local-first Go/Ollama learning tool with adaptive quizzes and mastery tracking
+- **[Diamond](https://github.com/YosaZiege/Diamond)** — Go study app with Obsidian-linked flashcards, adaptive quizzes, and DeepSeek integration
 - **[OCR service](https://github.com/YosaZiege/Ocr-golang-back)** — Go REST API (sqlc/PostgreSQL) + Next.js frontend, built as freelance work
 
 ## Experience

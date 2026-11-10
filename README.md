@@ -1,39 +1,40 @@
-# Hi, I'm Rahioui Youssef
+<h1 align="center">Hey, I'm Youssef 👋</h1>
 
-**Full-Stack & Backend Developer** — Java · Spring Boot · Go · TypeScript / Next.js
+<p align="center">
+  <strong>Backend & full-stack developer</strong><br>
+  Java / Spring Boot · Go · TypeScript<br>
+  Final-year software engineering student at ENSET Mohammedia · Class of 2027
+</p>
 
-Final-year Software Engineering student (GLSID) at ENSET Mohammedia, class of 2027. Seeking a PFE (end-of-studies internship).
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahioui--youssef-blue?logo=linkedin)](https://www.linkedin.com/in/rahioui-youssef-18b5182a0/)
-[![Email](https://img.shields.io/badge/Email-rahioui.youssef04%40gmail.com-red?logo=gmail)](mailto:rahioui.youssef04@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahioui-youssef-18b5182a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rahioui.youssef04@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## About me
+I build web applications and developer tools, with a particular interest in backend systems, code quality, and learning software. I'm looking for a **PFE (end-of-studies internship)** where I can put those interests to work.
 
-- Fluent in **English (C2)**, French (B2), Arabic (native)
-- I ship full-stack apps, tested code, and cloud infrastructure
-- AI-assisted development: RAG, AST + LLM tooling
+### Selected work
 
-## Tech Stack
+| Project | What I built |
+| --- | --- |
+| [EBank Microservices](https://github.com/YosaZiege/ebank-microservices-app) | Spring Cloud services and an Angular frontend, with an AI chatbot connected through MCP. |
+| [GoReview AI](https://github.com/YosaZiege/GoReview-AI) | A Go/Python architecture-smell analyzer with optional LLM feedback and a CI score threshold. [How it works →](https://github.com/YosaZiege/GoReview-AI/blob/main/DOCUMENTATION.md) |
+| [Diamond](https://github.com/YosaZiege/Diamond) | A Go study app connected to Obsidian and Neovim, with flashcards and adaptive quizzes. Uses DeepSeek for AI features. |
+| [OCR service](https://github.com/YosaZiege/Ocr-golang-back) | A Go REST API built with sqlc and PostgreSQL, paired with a [Next.js frontend](https://github.com/YosaZiege/Ocr-golang-front). |
 
-`Java` · `Spring Boot` · `Spring Security` · `Go` · `TypeScript` · `Next.js` · `Angular` · `React` · `Node.js` · `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Docker` · `GCP` · `AWS` · `Pulumi` · `Vitest` · `Playwright` · `GitHub Actions`
+### Tools I work with
 
-## Featured Projects
+- **Backend:** Java · Spring Boot · Go · Node.js · PostgreSQL · MySQL · MongoDB · Redis
+- **Frontend:** TypeScript · Next.js · Angular · React
+- **Delivery & testing:** Docker · GitHub Actions · GCP · AWS · Pulumi · Vitest · Playwright
 
-- **[digital-bank](https://github.com/YosaZiege/digital-bank)** — Spring Boot + Angular digital bank with Spring AI RAG assistant and Telegram bot
-- **[GoReview-AI](https://github.com/YosaZiege/GoReview-AI)** — CLI detecting architectural smells via Go/Python AST analysis, with LLM enrichment and score-based CI
-- **[Diamond](https://github.com/YosaZiege/Diamond)** — Go study app with Obsidian-linked flashcards, adaptive quizzes, and DeepSeek integration
-- **[OCR service](https://github.com/YosaZiege/Ocr-golang-back)** — Go REST API (sqlc/PostgreSQL) + Next.js frontend, built as freelance work
+### Experience
 
-## Experience
+- Software Engineer Intern at **Aliveness Ventures**
+- Developer Intern at **Sofac**
+- Front-end Developer Intern at **Atos**
+- Freelance Developer on **Upwork**
 
-- **Aliveness Ventures** (U.S. startup) — Software Engineer Intern
-- **Sofac** — Developer Intern
-- **Atos** — Front-end Developer Intern
-- **Upwork** — Freelance Developer
-
-## Reach me
-
-- Email: rahioui.youssef04@gmail.com
-- LinkedIn: [rahioui-youssef](https://www.linkedin.com/in/rahioui-youssef-18b5182a0/)
+English (C2) · French (B2) · Arabic (native)
